@@ -1,4 +1,4 @@
-TO clone:
+TO CLONE:
 
 To install backend:
 
