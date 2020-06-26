@@ -14,10 +14,18 @@ source env/Scripts/activate (to activate the virtual environment)
 
 pip install -r requirements.txt
 
-To install frontend:
+Make changes to the database settings in settings.py
 
-Now frontend
+Then to start the server:
+
+./manage.py runserver
+
+To install frontend:
 
 cd frontend
 
 npm install 
+
+To start the project:
+
+npm run start
