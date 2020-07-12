@@ -27,7 +27,6 @@ pip install -r requirements.txt
 
 ```bash
 cd frontend
-
 npm install 
 ```
 
